@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Green Power Tech - Digital Product Catalog
 
 A professional, interactive digital catalog website for Green Power Tech, featuring renewable energy products. Designed specifically for dealers to showcase products to customers in a professional manner.
@@ -82,3 +83,6 @@ This project is ready for deployment on platforms like Netlify, Vercel, or any s
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
+=======
+# Projects
+>>>>>>> aa8b339fa3eff0594705747a1cb0c129105ef73c
